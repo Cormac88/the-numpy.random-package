@@ -15,7 +15,8 @@ There are four distinct tasks that have been addressed in this Jupyter notebook:
 4. Explain the use of seeds in generating pseudorandom numbers.
 
 ## imports
-``# magic function to make plots show in this notebook
+```
+# magic function to make plots show in this notebook
 %matplotlib inline
 
 # Importing NumPy
@@ -28,7 +29,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Importing pandas
-import pandas as pd``
+import pandas as pd
+```
 
 ## Installing Jupyter Notebook and Running the Code
 
