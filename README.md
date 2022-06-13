@@ -1,4 +1,4 @@
-![NumPy](https://res.cloudinary.com/practicaldev/image/fetch/s--IS2P_PRA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--PmX0XWGn--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/i7xbfqoej9ylzboevtbb.png)
+![NumPy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/640px-NumPy_logo_2020.svg.png)
 
 # the-numpy.random-package
 
